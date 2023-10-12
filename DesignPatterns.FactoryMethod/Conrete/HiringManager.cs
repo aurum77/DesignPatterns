@@ -1,4 +1,6 @@
-namespace DesignPatterns.FactoryMethod.Abstract;
+using DesignPatterns.FactoryMethod.Abstract;
+
+namespace DesignPatterns.FactoryMethod.Conrete;
 
 public abstract class HiringManager
 {

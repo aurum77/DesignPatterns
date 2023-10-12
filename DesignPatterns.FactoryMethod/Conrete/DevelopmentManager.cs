@@ -1,6 +1,6 @@
-using DesignPatterns.FactoryMethod.Abstract;
+using DesignPatterns.FactoryMethod.Conrete;
 
-namespace DesignPatterns.FactoryMethod.Conrete;
+namespace DesignPatterns.FactoryMethod.Abstract;
 
 public class DevelopmentManager : HiringManager
 {
